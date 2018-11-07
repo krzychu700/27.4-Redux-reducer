@@ -1,0 +1,24 @@
+{
+  "name": "27.4-Redux-reducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzychu700/27.4-Redux-reducer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krzychu700/27.4-Redux-reducer/issues"
+  },
+  "homepage": "https://github.com/krzychu700/27.4-Redux-reducer#readme",
+  "dependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "uuid": "^3.3.2"
+  }
+}
